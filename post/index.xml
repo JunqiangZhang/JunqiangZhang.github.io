@@ -6,7 +6,16 @@
     <description>Recent content in Posts on JunqiangZhang&#39;s Blog&#39;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate><atom:link href="https://junqiangzhang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 23:13:35 +0800</lastBuildDate><atom:link href="https://junqiangzhang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maupassant主题</title>
+      <link>https://junqiangzhang.github.io/post/2021-02-19-Maupassant%E4%B8%BB%E9%A2%98/</link>
+      <pubDate>Fri, 19 Feb 2021 23:13:35 +0800</pubDate>
+      
+      <guid>https://junqiangzhang.github.io/post/2021-02-19-Maupassant%E4%B8%BB%E9%A2%98/</guid>
+      <description>1. 安装 hugo 见博客搭建篇文章 2. 安装 Maupassant 主题 1 2 cd &amp;lt;YOUR Bolg Root Dir&amp;gt; git clone https://github.com/flysnow-org/maupassant-hugo themes/maupassant 如果你是第一次使用主题，将./themes/maupassant/exampleSite/示例目录中所有文件复制到 &amp;lt;YOUR Bolg Root Dir&amp;gt; 中 如果你使用过，只需将./themes/maupassant/exampleSite/config.</description>
+    </item>
+    
     <item>
       <title>Golang Gin 实战（五）| 接收数组和 Map</title>
       <link>https://junqiangzhang.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</link>
